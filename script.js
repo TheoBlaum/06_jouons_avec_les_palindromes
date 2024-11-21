@@ -22,4 +22,17 @@ function isValidDate(date) {
 }
 
 
-console.log(isValidDate("13/08/2003")); 
+/* console.log(isValidDate("13/08/2103"));  */
+
+
+function cleanDate(date) {
+
+}
+
+function isPalindrome(date) {
+
+}
+
+function getNextPalindromes(date) {
+
+} 
